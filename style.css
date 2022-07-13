@@ -1,0 +1,121 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 20px;
+    height: 50px;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+nav img {
+    width: 50px;
+    height: 40px;
+}
+
+li {
+    list-style: none;
+}
+
+#iconSearch {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+
+#search {
+    padding: 10px;
+    border-radius: 5px;
+    padding-left: 30px;
+}
+
+main {
+    display: flex;
+
+}
+
+.main1 {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Roboto;
+    margin: 100px 85px;
+}
+
+.titleMain1 {
+    font-size: 60px;
+    text-align: start;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.descriptionMain1 {
+    color: #9C9696;
+    font: 40px;
+    margin-left: 5px;
+}
+
+.price {
+    font-size: 40px;
+    margin: 20px;
+    margin-left: -150px;
+    font-weight: bold;
+
+}
+
+.main2 {
+    display: flex;
+    flex-basis: 63%;
+    background-color: #C4C4C4;
+    height: 680px;
+    flex-wrap: wrap;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.ampliado {
+    width: 500px;
+    height: 450px;
+    margin: 0px 100px;
+}
+
+.galeria {
+    width: 250px;
+    height: 182px;
+    margin-bottom: 50px;
+}
+
+button {
+    background-color: red;
+    color: #fff;
+    width: 240px;
+    padding: 15px;
+    margin-left: -130px;
+    height: 50px;
+    border: 0px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: bold;
+} 
+
+#moreInformation {
+    display: flex;
+    background-color: black;
+    color: #fff;
+    width: 250px;
+    height: 160px;
+    padding: 0px 50px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
