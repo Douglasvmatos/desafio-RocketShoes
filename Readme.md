@@ -1,6 +1,6 @@
 # Rocket Rocket Shoes
 > @rocketseat challenge for front-end beginners: Landing page layout development like Login Form .
-![printFinished](https://user-images.githubusercontent.com/105434742/178443473-7b0a5196-81c2-4ae6-8185-3f1ca3d03b4e.png)
+![ChallengeOK](https://user-images.githubusercontent.com/105434742/178677642-04d73636-1091-4b21-947f-c1808f04b6a1.gif)
 
 # Links
 <a href="https://app.rocketseat.com.br/discover/challenges/rocket-shoes">Challenge</a>
